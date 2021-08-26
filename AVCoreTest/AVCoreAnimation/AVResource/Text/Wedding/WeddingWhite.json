@@ -1,0 +1,218 @@
+{
+    "SeriesAniMode": {
+        "AVTransiteCommon": 0,
+        "valueType": 0
+    },
+    "AVSceneDTO": {
+        "StartSceneDTO": {
+            "AVSceneAniScaleZCenter": 1,
+            "SceneAniType": 1,
+            "AVScaleSlowCenterIn": 0,
+            "SceneFactorType": 0,
+            "fullDuration": 5,
+            "AVFilterBlurImage": 2,
+            "PhotoFilterType": 2,
+            "AVArtAniWeddingStart": 0,
+            "ArtAniType": 0
+        },
+        "EndSceneDTO": {
+            "AVArtAniWeddingEnd": 1,
+            "ArtAniType": 1,
+            "fullDuration": 3
+        },
+        "AVSceneAniType": [
+                           {
+                           "AVSceneAniOrienteMove": 0,
+                           "SceneAniType": 0,
+                           "factor": [
+                                      {
+                                      "AVAniXYRightToLeft": 0,
+                                      "SceneFactorType": 0,
+                                      "fullDuration": 2
+                                      },
+                                      {
+                                      "AVAniXYLeftToRight": 1,
+                                      "SceneFactorType": 1,
+                                      "fullDuration": 2
+                                      },
+                                      {
+                                      "AVAniXYTopToBottom": 2,
+                                      "SceneFactorType": 2,
+                                      "fullDuration": 2
+                                      },
+                                      {
+                                      "AVAniXYBottomToTop": 3,
+                                      "SceneFactorType": 3,
+                                      "fullDuration": 2
+                                      }
+                                      ]
+                           },
+                           {
+                           "AVSceneAniScaleZCenter": 1,
+                           "SceneAniType": 1,
+                           "factor": [
+                                      {
+                                      "AVScaleSlowCenterIn": 0,
+                                      "SceneFactorType": 0,
+                                      "fullDuration": 2
+                                      },
+                                      {
+                                      "AVScaleSlowCenterInShake": 1,
+                                      "SceneFactorType": 1,
+                                      "fullDuration": 3
+                                      },
+                                      {
+                                      "AVScaleSlowCenterOut": 2,
+                                      "SceneFactorType": 2,
+                                      "fullDuration": 2
+                                      },
+                                      {
+                                      "AVScaleSlowCenterOutShake": 3,
+                                      "SceneFactorType": 3,
+                                      "fullDuration": 3
+                                      }
+                                      ]
+                           },
+                           {
+                           "AVSceneAniNoFaceShakeMove": 2,
+                           "SceneAniType": 2,
+                           "factor": [
+                                      {
+                                      "AVAniShakeInRightToLeft": 0,
+                                      "SceneFactorType": 0,
+                                      "fullDuration": 3
+                                      },
+                                      {
+                                      "AVAniShakeInLeftToRight": 1,
+                                      "SceneFactorType": 1,
+                                      "fullDuration": 3
+                                      },
+                                      {
+                                      "AVAniShakeInTopToBottom": 2,
+                                      "SceneFactorType": 2,
+                                      "fullDuration": 3
+                                      },
+                                      {
+                                      "AVAniShakeInBottomToTop": 3,
+                                      "SceneFactorType": 3,
+                                      "fullDuration": 3
+                                      }
+                                      ]
+                           },
+                           {
+                           "AVSceneAniOneFace": 3,
+                           "SceneAniType": 3,
+                           "factor": [
+                                      {
+                                      "AVAniCameraOneShakeMoveIn": 0,
+                                      "SceneFactorType": 0,
+                                      "fullDuration": 3
+                                      },
+                                      {
+                                      "AVAniCameraOneShakeMoveOut": 1,
+                                      "SceneFactorType": 1,
+                                      "fullDuration": 3
+                                      }
+                                      ]
+                           },
+                           {
+                           "AVSceneAniMoveShakeWhite": 4,
+                           "SceneAniType": 4,
+                           "factor": [
+                                      {
+                                      "AVAniShakeInRightToLeft": 0,
+                                      "SceneFactorType": 0,
+                                      "fullDuration": 2
+                                      },
+                                      {
+                                      "AVAniShakeInLeftToRight": 1,
+                                      "SceneFactorType": 1,
+                                      "fullDuration": 2
+                                      },
+                                      {
+                                      "AVAniShakeInTopToBottom": 2,
+                                      "SceneFactorType": 2,
+                                      "fullDuration": 2
+                                      },
+                                      {
+                                      "AVAniShakeInBottomToTop": 3,
+                                      "SceneFactorType": 3,
+                                      "fullDuration": 2
+                                      }
+                                      ]
+                           },
+                           {
+                           "AVSceneAniYCameraPath": 5,
+                           "SceneAniType": 5,
+                           "factor": [
+                                      {
+                                      "AVAniCameraTwoContinue": 0,
+                                      "SceneFactorType": 0,
+                                      "fullDuration": 3
+                                      },
+                                      {
+                                      "AVAniCameraTwoNoFadeMove": 1,
+                                      "SceneFactorType": 1,
+                                      "fullDuration": 5
+                                      },
+                                      {
+                                      "AVAniCameraSwitchFaceFade": 2,
+                                      "SceneFactorType": 2,
+                                      "fullDuration": 4
+                                      }
+                                      ]
+                           }
+                           ]
+    },
+    "AVSTransiteDTO": {
+        "AVSceneTransiteAniType": [
+                                   {
+                                   "AVSceneTransiteAniWhiteFadeInOut": 16,
+                                   "TransiteAniType": 16,
+                                   "factor": [
+                                              {
+                                              "AVSTFadeInOutMyMask": 0,
+                                              "TransiteFactorType": 0,
+                                              "fullDuration": 1.5
+                                              },
+                                              {
+                                              "AVSTWhiteColorFadeInOutSample": 1,
+                                              "TransiteFactorType": 1,
+                                              "fullDuration": 1.5
+                                              },
+                                              {
+                                              "AVSTWhiteColorFadeInOutGlitEffect": 2,
+                                              "TransiteFactorType": 3,
+                                              "fullDuration": 3
+                                              }
+                                              ]
+                                   },
+                                   {
+                                   "AVSceneTransiteAniGradientFadeSlide": 18,
+                                   "TransiteAniType": 18,
+                                   "factor": [
+                                              {
+                                              "AVAniXYRightToLeft": 0,
+                                              "TransiteFactorType": 0,
+                                              "fullDuration": 1.2
+                                              },
+                                              {
+                                              "AVAniXYLeftToRight": 1,
+                                              "TransiteFactorType": 1,
+                                              "fullDuration": 1.2
+                                              },
+                                              {
+                                              "AVAniXYTopToBottom": 2,
+                                              "TransiteFactorType": 2,
+                                              "fullDuration": 1.2
+                                              },
+                                              {
+                                              "AVAniXYBottomToTop": 3,
+                                              "TransiteFactorType": 3,
+                                              "fullDuration": 1.2
+                                              }
+                                              ]
+                                   }
+                                   ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "theme": {
+        "AVWedding": 0,
+        "valueType": 0
+    },
+    "series": {
+        "AVWeddingAndMagazine": 3,
+        "valueType": 3
+    },
+    "textList": [
+                 {
+                 "id": 0,
+                 "frame": "80|480|512|160",
+                 "superString": "<blue>                ❈</blue> <whitleS>WHEN I MET YOU </whitleS> \n <whitle>WHEN LOVE</whitle> <blue1B>MEET</blue1B> <whitle>LOVE</whitle>"
+                 },
+                 {
+                 "id": 1,
+                 "frame": "16|32|240|480",
+                 "superString": "<mark1>  ♛ </mark1> \n <whitle>=======</whitle>\n<blue>WE'</blue><whitle>ARE</whitle>\n<whitle>GET</whitle><blue>TING</blue>\n<green>MAR</green><whitle>RIEG!</whitle>\n <whitle>===</whitle>"
+                 },
+                 {
+                 "id": 2,
+                 "frame": "80|384|544|192",
+                 "superString": "<blue1MB>H</blue1MB><blueMB>APP</blueMB><whitleMB>INESS</whitleMB> \n <blueSneMB>    IS  </blueSneMB>\n <gray>        BEHOOVE</gray>"
+                 },
+                 {
+                 "id": 3,
+                 "frame": "224|480|320|160",
+                 "superString": "<whitleS>                  You are the</whitleS> \n <blue1MB>ONLY</blue1MB> <whitleMB>WOMEN</whitleMB> "
+                 },
+                 {
+                 "id": 4,
+                 "frame": "24|16|480|160",
+                 "superString": "<blue1MB>ONLY</blue1MB> <whitleS>BECAUSE OF YOU</whitleS> \n <grayS>          my world is so beautiful</grayS>"
+                 },
+                 {
+                 "id": 5,
+                 "frame": "80|448|560|128",
+                 "superString": "<blue1MB>If</blue1MB>  <whitleS>you were a teadrop</whitleS> <whitleS>in my eye</whitleS>"
+                 },
+                 {
+                 "id": 6,
+                 "frame": "80|16|560|192",
+                 "superString": "<blue1MB>FORGIVE ME</blue1MB> <blue>❣</blue> \n <graySS>NEEDING YOU IN MY LIFE</graySS>"
+                 },
+                 {
+                 "id": 7,
+                 "frame": "80|480|560|160",
+                 "superString": "<whitleS>My heart never knew </whitleS> \n <blue1MB>  So if i</blue1MB> <whitleS> were to fall in love</whitleS>"
+                 },
+                 {
+                 "id": 8,
+                 "frame": "16|480|560|160",
+                 "superString": "<blue>✎</blue> <blue>You</blue><whitle> are my happy</whitle>  \n <whitle>                 you are </whitle> <green>my world</green>\n "
+                 }
+                 ]
+}

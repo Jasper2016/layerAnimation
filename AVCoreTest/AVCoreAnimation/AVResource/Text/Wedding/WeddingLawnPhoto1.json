@@ -1,0 +1,561 @@
+{
+    "SeriesAniMode": {
+        "AVTransiteCommon": 1,
+        "valueType": 1,
+        "seriesBgImageName": "LawnPhotoBg",
+        "seriesBgFrame": "0, 0,2000, 2000",
+        "seriesBeginTime": 1
+    },
+    "AVPhotoSquareList": [
+                          {
+                          "id": 0,
+                          "PhotoBorthName": "squarePhoto5.png",
+                          "InnerBorthFrame": "100,100,400,400"
+                          },
+                          {
+                          "id": 1,
+                          "isHasAngle":"NO",
+                          "startAngle": 0,
+                          "endAngle": 100,
+                          "PhotoBorthName": "squarePhoto4.png",
+                          "InnerBorthFrame": "95,95,410,410"
+                          },
+                          {
+                          "id": 2,
+                          "PhotoBorthName": "squarePhoto6.png",
+                          "InnerBorthFrame": "80,80,440,440"
+                          },
+                          {
+                          "id": 3,
+                          "PhotoBorthName": "squarePhoto3.png",
+                          "InnerBorthFrame": "75,75,450,450"
+                          },
+                          {
+                          "id": 4,
+                          "isHasAngle":"NO",
+                          "startAngle": 0,
+                          "endAngle": 90,
+                          "PhotoBorthName": "squarePhoto20.png",
+                          "InnerBorthFrame": "80,80,440,440"
+                          },
+                          {
+                          "id": 6,
+                          "PhotoBorthName": "squarePhoto21.png",
+                          "InnerBorthFrame": "95,95,410,410"
+                          },
+                          {
+                          "id": 7,
+                          "PhotoBorthName": "squarePhoto7.png",
+                          "InnerBorthFrame": "110,110,380,380"
+                          },
+                          {
+                          "id": 8,
+                          "PhotoBorthName": "squarePhoto2.png",
+                          "InnerBorthFrame": "125,155,350,350"
+                          },
+                          {
+                          "id": 9,
+                          "PhotoBorthName": "squarePhoto9.png",
+                          "InnerBorthFrame": "140,140,320,320"
+                          },
+                          {
+                          "id": 10,
+                          "keppAngle": 12,
+                          "PhotoBorthName": "squarePhoto10.png",
+                          "InnerBorthFrame": "105,160,380,380"
+                          },
+                          {
+                          "id": 11,
+                          "PhotoBorthName": "squarePhoto11.png",
+                          "InnerBorthFrame": "85,85,430,430"
+                          },
+                          {
+                          "id": 12,
+                          "PhotoBorthName": "squarePhoto12.png",
+                          "InnerBorthFrame": "110,110,380,380"
+                          },
+                          {
+                          "id": 13,
+                          "PhotoBorthName": "squarePhoto17.png",
+                          "InnerBorthFrame": "100,100,400,400"
+                          },
+                          {
+                          "id": 14,
+                          "PhotoBorthName": "squarePhoto19.png",
+                          "InnerBorthFrame": "100,100,400,400"
+                          },
+                          {
+                          "id": 15,
+                          "PhotoBorthName": "squarePhoto1.png",
+                          "InnerBorthFrame": "125,125,350,350"
+                          },
+                          {
+                          "id": 16,
+                          "isHasAngle":"NO",
+                          "startAngle": 10,
+                          "endAngle": 100,
+                          "PhotoBorthName": "squarePhoto21.png",
+                          "InnerBorthFrame": "95,95,410,410"
+                          },
+                          {
+                          "id": 17,
+                          "PhotoBorthName": "squarePhoto22.png",
+                          "InnerBorthFrame": "90,90,420,420"
+                          },
+                          {
+                          "id": 18,
+                          "PhotoBorthName": "squarePhoto24.png",
+                          "InnerBorthFrame": " 95,95,410,410"
+                          }
+                          ],
+    "AVPhotoHorizontalList": [
+                              {
+                              "id": 0,
+                              "PhotoBorthName": "AlbumBorder9.png",
+                              "InnerBorthFrame": "80,110,380,340"
+                              },
+                              {
+                              "id": 1,
+                              "PhotoBorthName": "AlbumBorder8.png",
+                              "InnerBorthFrame": "90,140,420,320"
+                              },
+                              {
+                              "id": 2,
+                              "PhotoBorthName": "AlbumBorder13.png",
+                              "InnerBorthFrame": "40,85,480,390"
+                              },
+                              {
+                              "id": 3,
+                              "PhotoBorthName": "AlbumBorder10.png",
+                              "InnerBorthFrame": "90,125,420,350"
+                              },
+                              {
+                              "id": 4,
+                              "PhotoBorthName": "AlbumBorder1.png",
+                              "InnerBorthFrame": "75,100,470,400"
+                              },
+                              {
+                              "id": 5,
+                              "PhotoBorthName": "AlbumBorder17.png",
+                              "InnerBorthFrame": "90,150,420,300",
+                              "isBorderFront": "YES"
+                              },
+                              {
+                              "id": 6,
+                              "PhotoBorthName": "AlbumBorder7.png",
+                              "InnerBorthFrame": "90,140,420,320"
+                              },
+                              {
+                              "id": 7,
+                              "PhotoBorthName": "AlbumBorder17.png",
+                              "InnerBorthFrame": "100,160,400,280",
+                              "isBorderFront": "YES"
+                              },
+                              {
+                              "id": 8,
+                              "PhotoBorthName": "AlbumBorder15.png",
+                              "InnerBorthFrame": "60,105,480,390"
+                              },
+                              {
+                              "id": 9,
+                              "PhotoBorthName": "AlbumBorder4.png",
+                              "InnerBorthFrame": "70,90,480,400"
+                              }
+                              ],
+    "AVPhotoVerticallList": [
+                             {
+                             "id": 0,
+                             "PhotoBorthName": "AlbumVBorder1.png",
+                             "InnerBorthFrame": "150,80,300,440"
+                             }
+                             ],
+    "AVSceneMovePointList": [
+                             {
+                             "id": 0,
+                             "fullDuration": 2,
+                             "SceneAniPoint": {
+                             "startPoint": "0, 0",
+                             "endPoint": "0, 0",
+                             "isHasAngle": "NO"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "0, 0",
+                             "endPoint": "0, 0"
+                             }
+                             },
+                             {
+                             "id": 1,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1000, 0",
+                             "endPoint": "700, 0",
+                             "isHasAngle": "NO"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "0, 0",
+                             "endPoint": "-700, 0"
+                             }
+                             },
+                             {
+                             "id": 2,
+                             "keppAngle": 10,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1800, 0",
+                             "endPoint": "1400, 0"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-700, 0",
+                             "endPoint": "-1400, 0"
+                             }
+                             },
+                             {
+                             "id": 3,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1400, 900",
+                             "endPoint": "1400, 600"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-1400, 0",
+                             "endPoint": "-1400, -600"
+                             }
+                             },
+                             {
+                             "id": 4,
+                             "fullDuration": 4,
+                             "SceneAniPoint": {
+                             "startPoint": "200, 600",
+                             "endPoint": "700, 600"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-1400, -600",
+                             "endPoint": "-700, -600"
+                             }
+                             },
+                             {
+                             "id": 5,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "-600, 600",
+                             "endPoint": "0, 600"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-700, -600",
+                             "endPoint": "0, -600"
+                             }
+                             },
+                             {
+                             "id": 6,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "0, 1600",
+                             "endPoint": "0, 1200"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "0, -600",
+                             "endPoint": "0, -1200"
+                             }
+                             },
+                             {
+                             "id": 7,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1000, 1200",
+                             "endPoint": "600, 1200"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "0, -1200",
+                             "endPoint": "-600, -1200"
+                             }
+                             },
+                             {
+                             "id": 8,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1800, 1200",
+                             "endPoint": "1400, 1200"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-600, -1200",
+                             "endPoint": "-1400, -1200"
+                             }
+                             },
+                             {
+                             "id": 9,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "-600, 0",
+                             "endPoint": "0, 0"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "0, 0",
+                             "endPoint": "0, 0"
+                             }
+                             },
+                             {
+                             "id": 10,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1000, 0",
+                             "endPoint": "700, 0"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "0, 0",
+                             "endPoint": "-700, 0"
+                             }
+                             },
+                             {
+                             "id": 11,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1800, 0",
+                             "endPoint": "1400, 0"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-700, 0",
+                             "endPoint": "-1400, 0"
+                             }
+                             },
+                             {
+                             "id": 12,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1400, 900",
+                             "endPoint": "1400, 600"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-1400, 0",
+                             "endPoint": "-1400, -600"
+                             }
+                             },
+                             {
+                             "id": 13,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "200, 600",
+                             "endPoint": "700, 600"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-1400, -600",
+                             "endPoint": "-700, -600"
+                             }
+                             },
+                             {
+                             "id": 14,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "-600, 600",
+                             "endPoint": "0, 600"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-700, -600",
+                             "endPoint": "0, -600"
+                             }
+                             },
+                             {
+                             "id": 15,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "0, 1600",
+                             "endPoint": "0, 1200"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "0, -600",
+                             "endPoint": "0, -1200"
+                             }
+                             },
+                             {
+                             "id": 16,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1000, 1200",
+                             "endPoint": "600, 1200"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "0, -1200",
+                             "endPoint": "-600, -1200"
+                             }
+                             },
+                             {
+                             "id": 17,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1800, 1200",
+                             "endPoint": "1400, 1200"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-600, -1200",
+                             "endPoint": "-1400, -1200"
+                             }
+                             },
+                             {
+                             "id": 18,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "100, 300",
+                             "endPoint": "700, 600"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-1400, -1200",
+                             "endPoint": "-700, -600"
+                             }
+                             },
+                             {
+                             "id": 19,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "-600, -600",
+                             "endPoint": "0, 0"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-700, -600",
+                             "endPoint": "0, 0"
+                             }
+                             },
+                             {
+                             "id": 20,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1000, 0",
+                             "endPoint": "700, 0"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "0, 0",
+                             "endPoint": "-700, 0"
+                             }
+                             },
+                             {
+                             "id": 21,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1800, 0",
+                             "endPoint": "1400, 0"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-700, 0",
+                             "endPoint": "-1400, 0"
+                             }
+                             },
+                             {
+                             "id": 22,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1400, 900",
+                             "endPoint": "1400, 600"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-1400, 0",
+                             "endPoint": "-1400, -600"
+                             }
+                             },
+                             {
+                             "id": 23,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "200, 600",
+                             "endPoint": "700, 600"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-1400, -600",
+                             "endPoint": "-700, -600"
+                             }
+                             },
+                             {
+                             "id": 24,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "-600, 600",
+                             "endPoint": "0, 600"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-700, -600",
+                             "endPoint": "0, -600"
+                             }
+                             },
+                             {
+                             "id": 25,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "0, 1600",
+                             "endPoint": "0, 1200"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "0, -600",
+                             "endPoint": "0, -1200"
+                             }
+                             },
+                             {
+                             "id": 26,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1000, 1200",
+                             "endPoint": "600, 1200"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "0, -1200",
+                             "endPoint": "-600, -1200"
+                             }
+                             },
+                             {
+                             "id": 27,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1800, 1200",
+                             "endPoint": "1400, 1200"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-600, -1200",
+                             "endPoint": "-1400, -1200"
+                             }
+                             },
+                             {
+                             "id": 28,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "100, 300",
+                             "endPoint": "700, 600"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-1400, -1200",
+                             "endPoint": "-700, -600"
+                             }
+                             },
+                             {
+                             "id": 29,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "-600, -600",
+                             "endPoint": "0, 0"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-700, -600",
+                             "endPoint": "0, 0"
+                             }
+                             },
+                             {
+                             "id": 30,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1000, 0",
+                             "endPoint": "700, 0"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "0, 0",
+                             "endPoint": "-700, 0"
+                             }
+                             },
+                             {
+                             "id": 31,
+                             "fullDuration": 3,
+                             "SceneAniPoint": {
+                             "startPoint": "1800, 0",
+                             "endPoint": "1400, 0"
+                             },
+                             "STransiteAniPoint": {
+                             "startPoint": "-700, 0",
+                             "endPoint": "-1400, 0"
+                             }
+                             }
+                             ]
+}

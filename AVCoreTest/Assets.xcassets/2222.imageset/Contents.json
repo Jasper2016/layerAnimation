@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "src=http---bbs.qn.img-space.com-g2-M00-01-CF-Cg-4klSMH6-IBfSTAAYnh7vYZn8AAC1IAHPW8UABief387.jpg?imageView2-2-w-600-q-90-ignore-error-1-&refer=http---bbs.qn.img-space.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
